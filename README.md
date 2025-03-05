@@ -1,4 +1,6 @@
-# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.+
+Name:Myvizhi S
+Ref no:24900192
 
 ## AIM
 
@@ -43,6 +45,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/39dd1c1f-cabb-4089-a3a9-476b6e48374a)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
